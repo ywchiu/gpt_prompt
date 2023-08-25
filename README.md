@@ -218,3 +218,16 @@ How would you like ChatGPT to respond?
 
 ````
 
+### ChatGPT Plugins
+
+1. webpilot
+````
+請介紹台灣的輿情分析公司?
+````
+
+2. Perfect
+````
+perfect 請將下文章將中翻譯成英文:A聊天開始退燒了?最新查顯示ChatGPT爆炸性成長後,上個月首次出現下滑
+````
+
+
